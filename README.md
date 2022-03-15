@@ -1,2 +1,2 @@
 # cider
-A tool to merge a pint config diff file
+A library to merge a pint config diff file
